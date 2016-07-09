@@ -1,0 +1,23 @@
+Enter the name of input file? 
+input3.txt
+
+
+userUserMatrix is:
+[1.0000, 0.2171, 0.2171, 0.2240, 0.2109, 0.2171]
+[0.2171, 1.0000, 1.0000, 0.3090, 0.2500, 0.2899]
+[0.2171, 1.0000, 1.0000, 0.3090, 0.2500, 0.2899]
+[0.2240, 0.3090, 0.3090, 1.0000, 0.2403, 0.2171]
+[0.2109, 0.2500, 0.2500, 0.2403, 1.0000, 0.3660]
+[0.2171, 0.2899, 0.2899, 0.2171, 0.3660, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are: 
+User2 and User3
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are: 
+User1 and User5
+with similarity score of 0.2109
+
+
