@@ -1,0 +1,7 @@
+Class name: exit
+
+Responsibilities:
+*terminates (closes) the shell when the command is run
+
+Collaborators:
+*ProQuery

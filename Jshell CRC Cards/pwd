@@ -1,0 +1,7 @@
+Class name: pwd
+
+Responsibilities:
+*prints the whole path of the current directory
+
+Collaborators:
+*FileSystem

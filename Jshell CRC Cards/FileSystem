@@ -1,0 +1,12 @@
+Class name: FileSystem
+
+Responsibilities:
+*Manage files and folders
+*Traverse through nested directories (?)
+*Create new files or folders (?)
+
+Collaborators:
+*printData
+*printFolder
+*printFiles
+*OUTPUT (?)

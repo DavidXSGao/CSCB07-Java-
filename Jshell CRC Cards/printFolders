@@ -1,0 +1,8 @@
+Class name: printFolders
+Parent class (if any): Output
+
+Responsibilities:
+*reads all previous folder titles prints the path to the
+ directory of the current folder
+ 
+Collaborators:

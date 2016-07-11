@@ -1,0 +1,21 @@
+Class name: Shell
+
+Responsibilities:
+*Starts a new session when program is run
+*Interprets given commands through the input
+*Delivers commands to corresponding processes
+*Delivers messages to the output
+
+Collaborators:
+*cd
+*cp
+*echo_append
+*exit
+*get
+*Output
+*pwd
+*cat
+*echo_overwrite
+*ls
+*mkdir
+*mv

@@ -1,0 +1,8 @@
+Class name: mv
+
+Responsibilities:
+*Moves a file from an indicated location inside a directory within FileSystem
+ to a new specified location
+
+Collaborators:
+*FileSystem

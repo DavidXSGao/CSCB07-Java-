@@ -1,0 +1,8 @@
+Class name: Input
+
+Responsibilities:
+*Takes and accepts commands given from the user
+*Checks if commands are valid
+
+Collaborators:
+*Shell

@@ -1,0 +1,8 @@
+Class name: printFiles
+Parent class (if any): Output
+
+Responsibilities:
+*reads the contents of the folders and prints the file names
+
+Collaborators:
+printData(?)

@@ -1,0 +1,8 @@
+Class name: cat
+
+Responsibilities:
+*Opens a specified file and prints its contents 
+
+Collaborators:
+*FileSystem
+*printData

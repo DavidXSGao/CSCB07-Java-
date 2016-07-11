@@ -1,0 +1,11 @@
+Class name: Classname
+Parent class (if any): mv
+
+Responsibilities:
+*moves the file to the new directory
+*renames the file if a file with the same name exists
+*prints a message to rename the file if a file with the
+ same name exists (?)
+
+Collaborators:
+*Output(?)

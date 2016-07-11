@@ -1,0 +1,7 @@
+Class name: ls
+
+Responsibilities:
+*Lists the names of files/folders in the current directory
+
+Collaborators:
+*FileSystem

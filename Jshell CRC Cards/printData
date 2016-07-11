@@ -1,0 +1,8 @@
+Class name: printData
+Parent class (if any): Output
+
+Responsibilities:
+*reads a file and prints the data onto the shell as it would
+ display on a text editor
+ 
+Collaborators:
